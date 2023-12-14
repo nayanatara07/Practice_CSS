@@ -1,6 +1,6 @@
 # Friends Gallery
 
-A simple HTML webpage showcasing a friends gallery with responsive CSS styling.
+A simple [HTML webpage](https://nayanatara07.github.io/Practice_CSS/) showcasing a friends gallery with responsive CSS styling.
 
 ## Table of Contents
 
